@@ -1,2 +1,1 @@
-# control-system
-control system related
+Software installation script: A complete and automated installation script for Tango control system. not python, but shell scripting. takes care of versions of multiple packages, configuration flags while compiling, debconf etc. includes zmq, omniorb, mysql installations as well.
